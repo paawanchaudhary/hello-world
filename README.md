@@ -1,2 +1,3 @@
 # hello-world
-Trying GitHub for the first time and it asked me yo make this so trying lololol...:-)
+Trying GitHub for the first time and it asked me to make this so trying lololol...:-)
+Learning something new...
